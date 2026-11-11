@@ -1,0 +1,30 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!1045 &1
+EditorBuildSettings:
+  m_ObjectHideFlags: 0
+  serializedVersion: 2
+  m_Scenes:
+  - enabled: 1
+    path: Assets/Scenes/1_MainMenu.unity
+    guid: 99c9720ab356a0642a771bea13969a05
+  - enabled: 1
+    path: Assets/Scenes/2_LobbyRuangan.unity
+    guid: 71cf4f9442a222145bc7b54d4ed6ce74
+  - enabled: 1
+    path: Assets/Scenes/Pert1.unity
+    guid: 98f89f3b6ce2800479ea621b4ad1bad1
+  - enabled: 1
+    path: Assets/Scenes/Pert2.unity
+    guid: ff88a4fb314b1464abfc875952baeaa6
+  - enabled: 1
+    path: Assets/Scenes/Pert3.unity
+    guid: 396884cf40566e6408d5130bf01b24be
+  - enabled: 1
+    path: Assets/Scenes/Pert4.unity
+    guid: c77015cf7390f8447897b81cafe063b2
+  m_configObjects:
+    com.unity.input.settings.actions: {fileID: -944628639613478452, guid: 052faaac586de48259a63d0c4782560b, type: 3}
+    com.unity.xr.management.loader_settings: {fileID: 11400000, guid: 6815d60701ba0e14d9ac5ed89d29b8d1, type: 2}
+    com.unity.xr.openxr.settings4: {fileID: 11400000, guid: 3ce1e2aedbe9fdd4bad20d031525cb4b, type: 2}
+  m_UseUCBPForAssetBundles: 0
